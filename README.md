@@ -1,5 +1,4 @@
 # TruthLens — Fake News Detection System
-**Final Year Project | B.E. / B.Tech Computer Science**
 
 ---
 
